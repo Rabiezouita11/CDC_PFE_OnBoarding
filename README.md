@@ -3,7 +3,7 @@ Modélisation des processus de BeEnroll et OnBoarding à l'aide de Camunda BPMN.
 Implémentation des processus de BeEnroll et OnBoarding en utilisant Camunda, en utilisant
 des technologies telles que Java ou JavaScript.
 Intégration de Camunda avec les autres systèmes d'entreprise pour permettre l'envoi
-automatique de notifications par e-mail et sur la plateforme, à l'aide de protocoles tels queSMTP ou REST.
+automatique de notifications par e-mail et sur la plateforme (kafka), à l'aide de protocoles tels queSMTP ou REST.
 Mise en place d'un système de vérification des pièces complémentaires pour les candidatsacceptés, qui comprendrait une liste de contrôle et un processus de validation.
 Création d'un workflow pour le changement de rôle de candidate vers employee.
 Transfert des dossiers Alfresco et des attributs vers le dossier employee ou rejected enfonction du résultat du processus.
