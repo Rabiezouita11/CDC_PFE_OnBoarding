@@ -45,7 +45,7 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 	</tr>
     <tr>
 		<td>Other APIs Used</td>
-		<td>API email </td>
+		<td>API email , kafka </td>
 	</tr>
 </tbody>
 </table>
