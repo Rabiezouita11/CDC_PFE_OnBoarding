@@ -37,7 +37,7 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 	</tr>
 	<tr>
 		<td>Database</td>
-		<td>postgres sql </td>
+		<td>PostgreSQL</td>
 	</tr>
   <tr>
 		<td>Images Storage</td>
@@ -79,4 +79,41 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 ##### CalendarPage
 
 ![agenda](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/a1d1445d-b56b-43f3-8ec0-c99485cd50bf)
+
+##### NotificationPage
+
+![notification](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/d07d435d-7488-45b3-8566-3bcb719e1827)
+
+##### ProfilePage
+
+![profile](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/85d1ec92-f00b-4098-8be7-3a5e2234a056)
+
+##### Alfresco Share v6.0.cPage
+
+![alfresco](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/a6d09063-28c2-4e7e-9f54-cb2b336f09fe)
+
+
+##### DBeaver 23.0.0 PostgreSQL Page
+
+![dbeaver](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/3276734c-5a92-4977-8a5e-60c7de9b76af)
+
+
+##### Envoyer-DocumentsPage
+
+![candidate](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/a16b3ce2-7432-41b1-8316-51b166d03fae)
+
+##### les dossierDeCandidatePage
+
+![dossierCandidate](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/c91c72d4-babf-49c8-ae86-3f6538892b6f)
+##### ContenuDocumentsPage
+
+![contenu](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/b49c18b4-90b5-4419-9362-45f207540acf)
+
+##### ManqueDesDocumentsPage
+
+![ManqueDocuments](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/f8e867e0-15ba-46d1-892d-a1dcad5d2fa0)
+
+##### AfficherContenuPage
+
+![afficherContenu](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/440d7d97-f5ad-475a-ae0b-d44fa80cc1af)
 
