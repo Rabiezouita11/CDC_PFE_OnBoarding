@@ -50,7 +50,6 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 </tbody>
 </table>
 
-## Demo
 
 
 
