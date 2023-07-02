@@ -64,4 +64,19 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 
 ![login](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/bae0516b-b635-4cd9-93c0-61639a1f06fb)
 
+##### RegisterPage
+
+![register](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/9653f7b2-8822-48f9-8a59-2c9b2c3befb0)
+
+##### MotDePasseOublierPage
+
+![forgetpassword](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/a2e42dfd-6b07-43f4-9fcf-5d80fda2df97)
+
+##### MyGedPage
+
+![MyGED](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/ac4e412d-59bf-4588-b68c-b62eb937226a)
+
+##### CalendarPage
+
+![agenda](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/a1d1445d-b56b-43f3-8ec0-c99485cd50bf)
 
