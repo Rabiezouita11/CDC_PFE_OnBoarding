@@ -50,7 +50,6 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 </tbody>
 </table>
 ## Screenshots
-
 ##### DockerDesktopPage
-
+![image](https://github.com/Rabiezouita11/CDC_PFE_OnBoarding/assets/91283165/cf51f080-0868-4824-8dbf-e675dcef0d30)
 
