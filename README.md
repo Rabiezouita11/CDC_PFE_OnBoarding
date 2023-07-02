@@ -21,15 +21,15 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 <tbody>
 	<tr>
 		<td>Front-End</td>
-		<td>Angular, Bootstrap, HTML5, CSS3, Typescript</td>
+		<td>Angular 15 , Bootstrap, HTML5, CSS3, Typescript</td>
 	</tr>
 	<tr>
 		<td>Back-End</td>
-		<td>Express, Node.js</td>
+		<td>Spring boot </td>
 	</tr>
   <tr>
 		<td>Authentication</td>
-		<td>JWT(JSON Web Tokens)</td>
+		<td>Keycloak</td>
 	</tr>
 	<tr>
 		<td>API Testing</td>
@@ -37,15 +37,15 @@ Technologies : Keycloak · docker · kafka · Alfresco · Camunda BPM
 	</tr>
 	<tr>
 		<td>Database</td>
-		<td>Sql</td>
+		<td>postgres sql </td>
 	</tr>
   <tr>
 		<td>Images Storage</td>
-		<td>locale</td>
+		<td>alfresco</td>
 	</tr>
     <tr>
 		<td>Other APIs Used</td>
-		<td>Stripe Payment,api map , API de géolocalisation , API email </td>
+		<td>API email </td>
 	</tr>
 </tbody>
 </table>
